@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>全球通信指南</title>
-  <icon>https://username.github.io/mobile-tech/icon.png</icon>
+  <icon>https://tikegg.github.io/icon.png</icon>
   <subtitle>专业的国际通信与旅游上网解决方案</subtitle>
-  <link href="https://username.github.io/mobile-tech/atom.xml" rel="self"/>
+  <link href="https://tikegg.github.io/atom.xml" rel="self"/>
   
-  <link href="https://username.github.io/mobile-tech/"/>
-  <updated>2025-09-08T10:28:58.942Z</updated>
-  <id>https://username.github.io/mobile-tech/</id>
+  <link href="https://tikegg.github.io/"/>
+  <updated>2025-09-08T10:28:58.956Z</updated>
+  <id>https://tikegg.github.io/</id>
   
   <author>
     <name>全球通信专家</name>
@@ -17,256 +17,9 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>法国5G卡终极攻略：哪里买、怎么用、2024最省方案（实测推荐）</title>
-    <link href="https://username.github.io/mobile-tech/international-roaming/travel-guide/sim-card-reviews/tech-guide/%E6%B3%95%E5%9B%BD5G%E5%8D%A1%E7%BB%88%E6%9E%81%E6%94%BB%E7%95%A5%EF%BC%9A%E5%93%AA%E9%87%8C%E4%B9%B0%E3%80%81%E6%80%8E%E4%B9%88%E7%94%A8%E3%80%812024%E6%9C%80%E7%9C%81%E6%96%B9%E6%A1%88%EF%BC%88%E5%AE%9E%E6%B5%8B%E6%8E%A8%E8%8D%90%EF%BC%89/"/>
-    <id>https://username.github.io/mobile-tech/international-roaming/travel-guide/sim-card-reviews/tech-guide/%E6%B3%95%E5%9B%BD5G%E5%8D%A1%E7%BB%88%E6%9E%81%E6%94%BB%E7%95%A5%EF%BC%9A%E5%93%AA%E9%87%8C%E4%B9%B0%E3%80%81%E6%80%8E%E4%B9%88%E7%94%A8%E3%80%812024%E6%9C%80%E7%9C%81%E6%96%B9%E6%A1%88%EF%BC%88%E5%AE%9E%E6%B5%8B%E6%8E%A8%E8%8D%90%EF%BC%89/</id>
-    <published>2025-09-08T10:28:59.000Z</published>
-    <updated>2025-09-08T10:28:58.942Z</updated>
-    
-    
-    <summary type="html">刚下飞机就断网？别让天价漫游费毁了你的法国之旅！作为去年在巴黎街头摸爬滚打三个月的“老油条”，我实测了市面上所有法国5G卡方案——从戴高乐机场柜台到本地便利店，Orange卡稳坐网速王座，实测下载速度85Mbps（埃菲尔铁塔下刷视频不卡顿），月租15欧无限流量套餐比国际漫游省70%。这篇攻略直接甩干...</summary>
-    
-    
-    
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/categories/international-roaming/"/>
-    
-    <category term="旅游指南" scheme="https://username.github.io/mobile-tech/categories/international-roaming/travel-guide/"/>
-    
-    <category term="流量卡评测" scheme="https://username.github.io/mobile-tech/categories/international-roaming/travel-guide/sim-card-reviews/"/>
-    
-    <category term="技术指南" scheme="https://username.github.io/mobile-tech/categories/international-roaming/travel-guide/sim-card-reviews/tech-guide/"/>
-    
-    
-    <category term="Orange" scheme="https://username.github.io/mobile-tech/tags/Orange/"/>
-    
-    <category term="旅游" scheme="https://username.github.io/mobile-tech/tags/%E6%97%85%E6%B8%B8/"/>
-    
-    <category term="评测" scheme="https://username.github.io/mobile-tech/tags/%E8%AF%84%E6%B5%8B/"/>
-    
-    <category term="对比" scheme="https://username.github.io/mobile-tech/tags/%E5%AF%B9%E6%AF%94/"/>
-    
-    <category term="教程" scheme="https://username.github.io/mobile-tech/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="推荐" scheme="https://username.github.io/mobile-tech/tags/%E6%8E%A8%E8%8D%90/"/>
-    
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
-    
-    <category term="法国" scheme="https://username.github.io/mobile-tech/tags/%E6%B3%95%E5%9B%BD/"/>
-    
-    <category term="出境游" scheme="https://username.github.io/mobile-tech/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
-    
-    <category term="使用指南" scheme="https://username.github.io/mobile-tech/tags/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2025法国流量卡终极指南：安全购买、激活技巧与性价比排行（实测更新）</title>
-    <link href="https://username.github.io/mobile-tech/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/2025%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%EF%BC%9A%E5%AE%89%E5%85%A8%E8%B4%AD%E4%B9%B0%E3%80%81%E6%BF%80%E6%B4%BB%E6%8A%80%E5%B7%A7%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E6%8E%92%E8%A1%8C%EF%BC%88%E5%AE%9E%E6%B5%8B%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
-    <id>https://username.github.io/mobile-tech/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/2025%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%EF%BC%9A%E5%AE%89%E5%85%A8%E8%B4%AD%E4%B9%B0%E3%80%81%E6%BF%80%E6%B4%BB%E6%8A%80%E5%B7%A7%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E6%8E%92%E8%A1%8C%EF%BC%88%E5%AE%9E%E6%B5%8B%E6%9B%B4%E6%96%B0%EF%BC%89/</id>
-    <published>2025-09-08T10:28:59.000Z</published>
-    <updated>2025-09-08T10:28:58.913Z</updated>
-    
-    
-    <summary type="html">嗨，朋友！刚从法国自驾游回来，我太懂你搜“法国流量卡”时的焦虑了——国内运营商漫游费50元/GB，信号在普罗旺斯乡下直接失踪，激活还要填一堆法语表格…别慌！作为踩过无数坑的旅行老油条，我实测了12款2025年最新流量卡，发现**法国流量卡**根本不用花冤枉钱：安全激活30秒搞定、学生党月费低至20欧...</summary>
-    
-    
-    
-    <category term="通信服务" scheme="https://username.github.io/mobile-tech/categories/mobile-data/"/>
-    
-    <category term="流量卡评测" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/"/>
-    
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/international-roaming/"/>
-    
-    <category term="旅游指南" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/"/>
-    
-    <category term="技术指南" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/"/>
-    
-    
-    <category term="Orange" scheme="https://username.github.io/mobile-tech/tags/Orange/"/>
-    
-    <category term="旅游" scheme="https://username.github.io/mobile-tech/tags/%E6%97%85%E6%B8%B8/"/>
-    
-    <category term="评测" scheme="https://username.github.io/mobile-tech/tags/%E8%AF%84%E6%B5%8B/"/>
-    
-    <category term="对比" scheme="https://username.github.io/mobile-tech/tags/%E5%AF%B9%E6%AF%94/"/>
-    
-    <category term="教程" scheme="https://username.github.io/mobile-tech/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="推荐" scheme="https://username.github.io/mobile-tech/tags/%E6%8E%A8%E8%8D%90/"/>
-    
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
-    
-    <category term="法国" scheme="https://username.github.io/mobile-tech/tags/%E6%B3%95%E5%9B%BD/"/>
-    
-    <category term="出境游" scheme="https://username.github.io/mobile-tech/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
-    
-    <category term="使用指南" scheme="https://username.github.io/mobile-tech/tags/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
-    
-    <category term="eSIM" scheme="https://username.github.io/mobile-tech/tags/eSIM/"/>
-    
-    <category term="移动通信" scheme="https://username.github.io/mobile-tech/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
-    
-    <category term="流量卡" scheme="https://username.github.io/mobile-tech/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何选择法国流量卡：2025年最佳性价比品牌对比与设置指南</title>
-    <link href="https://username.github.io/mobile-tech/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%EF%BC%9A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%80%A7%E4%BB%B7%E6%AF%94%E5%93%81%E7%89%8C%E5%AF%B9%E6%AF%94%E4%B8%8E%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/"/>
-    <id>https://username.github.io/mobile-tech/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%EF%BC%9A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%80%A7%E4%BB%B7%E6%AF%94%E5%93%81%E7%89%8C%E5%AF%B9%E6%AF%94%E4%B8%8E%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/</id>
-    <published>2025-09-08T10:28:59.000Z</published>
-    <updated>2025-09-08T10:28:58.919Z</updated>
-    
-    
-    <summary type="html">说实话，去年我拖着行李箱刚落地戴高乐机场时，手机一开就收到运营商短信：国际漫游费每分钟3欧元！那一刻我真想把手机扔进塞纳河——直到学会**如何选择法国流量卡**。别再被天价漫游坑了，2025年选对卡能省下至少200欧，还能秒连4G不掉线。下面我直接甩干货：短期旅行闭眼入Orange的10欧10GB卡...</summary>
-    
-    
-    
-    <category term="通信服务" scheme="https://username.github.io/mobile-tech/categories/mobile-data/"/>
-    
-    <category term="流量卡评测" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/"/>
-    
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/international-roaming/"/>
-    
-    <category term="旅游指南" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/"/>
-    
-    <category term="技术指南" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/"/>
-    
-    
-    <category term="Orange" scheme="https://username.github.io/mobile-tech/tags/Orange/"/>
-    
-    <category term="旅游" scheme="https://username.github.io/mobile-tech/tags/%E6%97%85%E6%B8%B8/"/>
-    
-    <category term="评测" scheme="https://username.github.io/mobile-tech/tags/%E8%AF%84%E6%B5%8B/"/>
-    
-    <category term="对比" scheme="https://username.github.io/mobile-tech/tags/%E5%AF%B9%E6%AF%94/"/>
-    
-    <category term="教程" scheme="https://username.github.io/mobile-tech/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="推荐" scheme="https://username.github.io/mobile-tech/tags/%E6%8E%A8%E8%8D%90/"/>
-    
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
-    
-    <category term="法国" scheme="https://username.github.io/mobile-tech/tags/%E6%B3%95%E5%9B%BD/"/>
-    
-    <category term="出境游" scheme="https://username.github.io/mobile-tech/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
-    
-    <category term="使用指南" scheme="https://username.github.io/mobile-tech/tags/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
-    
-    <category term="eSIM" scheme="https://username.github.io/mobile-tech/tags/eSIM/"/>
-    
-    <category term="移动通信" scheme="https://username.github.io/mobile-tech/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
-    
-    <category term="流量卡" scheme="https://username.github.io/mobile-tech/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
-    
-    <category term="德国" scheme="https://username.github.io/mobile-tech/tags/%E5%BE%B7%E5%9B%BD/"/>
-    
-    <category term="意大利" scheme="https://username.github.io/mobile-tech/tags/%E6%84%8F%E5%A4%A7%E5%88%A9/"/>
-    
-    <category term="西班牙" scheme="https://username.github.io/mobile-tech/tags/%E8%A5%BF%E7%8F%AD%E7%89%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>西班牙eSIM卡购买指南 | 激活步骤、设置教程及2025年最佳推荐</title>
-    <link href="https://username.github.io/mobile-tech/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/%E8%A5%BF%E7%8F%AD%E7%89%99eSIM%E5%8D%A1%E8%B4%AD%E4%B9%B0%E6%8C%87%E5%8D%97__%E6%BF%80%E6%B4%BB%E6%AD%A5%E9%AA%A4%E3%80%81%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E5%8F%8A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%8E%A8%E8%8D%90/"/>
-    <id>https://username.github.io/mobile-tech/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/%E8%A5%BF%E7%8F%AD%E7%89%99eSIM%E5%8D%A1%E8%B4%AD%E4%B9%B0%E6%8C%87%E5%8D%97__%E6%BF%80%E6%B4%BB%E6%AD%A5%E9%AA%A4%E3%80%81%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E5%8F%8A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%8E%A8%E8%8D%90/</id>
-    <published>2025-09-08T10:28:59.000Z</published>
-    <updated>2025-09-08T10:28:58.964Z</updated>
-    
-    
-    <summary type="html">刚落地西班牙机场，手机一摸黑？别焦虑！这篇指南专治“落地无网”恐慌——直接告诉你**西班牙eSIM卡**怎么买、10分钟快速激活（连我爸妈都能搞定），以及2025年最靠谱的3个低价套餐（实测iPhone 14和安卓都兼容）。去年在塞维利亚迷路时，要不是提前设好eSIM，我可能真得靠手势比划问路了。漫...</summary>
-    
-    
-    
-    <category term="通信服务" scheme="https://username.github.io/mobile-tech/categories/mobile-data/"/>
-    
-    <category term="流量卡评测" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/"/>
-    
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/international-roaming/"/>
-    
-    <category term="旅游指南" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/"/>
-    
-    <category term="技术指南" scheme="https://username.github.io/mobile-tech/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/"/>
-    
-    
-    <category term="旅游" scheme="https://username.github.io/mobile-tech/tags/%E6%97%85%E6%B8%B8/"/>
-    
-    <category term="评测" scheme="https://username.github.io/mobile-tech/tags/%E8%AF%84%E6%B5%8B/"/>
-    
-    <category term="对比" scheme="https://username.github.io/mobile-tech/tags/%E5%AF%B9%E6%AF%94/"/>
-    
-    <category term="教程" scheme="https://username.github.io/mobile-tech/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="推荐" scheme="https://username.github.io/mobile-tech/tags/%E6%8E%A8%E8%8D%90/"/>
-    
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
-    
-    <category term="出境游" scheme="https://username.github.io/mobile-tech/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
-    
-    <category term="使用指南" scheme="https://username.github.io/mobile-tech/tags/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
-    
-    <category term="eSIM" scheme="https://username.github.io/mobile-tech/tags/eSIM/"/>
-    
-    <category term="移动通信" scheme="https://username.github.io/mobile-tech/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
-    
-    <category term="流量卡" scheme="https://username.github.io/mobile-tech/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
-    
-    <category term="西班牙" scheme="https://username.github.io/mobile-tech/tags/%E8%A5%BF%E7%8F%AD%E7%89%99/"/>
-    
-    <category term="Vodafone" scheme="https://username.github.io/mobile-tech/tags/Vodafone/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>法国手机卡终极选择：2025高性价比推荐与实操指南（附机场购买技巧）</title>
-    <link href="https://username.github.io/mobile-tech/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E6%B3%95%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%8D%A1%E7%BB%88%E6%9E%81%E9%80%89%E6%8B%A9%EF%BC%9A2025%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%8E%A8%E8%8D%90%E4%B8%8E%E5%AE%9E%E6%93%8D%E6%8C%87%E5%8D%97%EF%BC%88%E9%99%84%E6%9C%BA%E5%9C%BA%E8%B4%AD%E4%B9%B0%E6%8A%80%E5%B7%A7%EF%BC%89/"/>
-    <id>https://username.github.io/mobile-tech/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E6%B3%95%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%8D%A1%E7%BB%88%E6%9E%81%E9%80%89%E6%8B%A9%EF%BC%9A2025%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%8E%A8%E8%8D%90%E4%B8%8E%E5%AE%9E%E6%93%8D%E6%8C%87%E5%8D%97%EF%BC%88%E9%99%84%E6%9C%BA%E5%9C%BA%E8%B4%AD%E4%B9%B0%E6%8A%80%E5%B7%A7%EF%BC%89/</id>
-    <published>2025-09-08T10:28:59.000Z</published>
-    <updated>2025-09-08T10:28:58.950Z</updated>
-    
-    
-    <summary type="html">刚拖着行李箱走出巴黎戴高乐机场，手机一震收到运营商短信：&quot;国际漫游费12欧元/分钟&quot;——这感觉我太熟悉了！去年带爸妈去蔚蓝海岸，差点被漫游账单吓晕。别慌，这篇指南专治&quot;法国手机卡&quot;选择困难症：30秒内教你激活最便宜短期卡，省下50%冤枉钱（Free Mobile的8天卡只要5欧，实测机场柜台10分钟...</summary>
-    
-    
-    
-    <category term="通信服务" scheme="https://username.github.io/mobile-tech/categories/mobile-data/"/>
-    
-    <category term="旅游指南" scheme="https://username.github.io/mobile-tech/categories/mobile-data/travel-guide/"/>
-    
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/categories/mobile-data/travel-guide/international-roaming/"/>
-    
-    <category term="流量卡评测" scheme="https://username.github.io/mobile-tech/categories/mobile-data/travel-guide/international-roaming/sim-card-reviews/"/>
-    
-    
-    <category term="Orange" scheme="https://username.github.io/mobile-tech/tags/Orange/"/>
-    
-    <category term="旅游" scheme="https://username.github.io/mobile-tech/tags/%E6%97%85%E6%B8%B8/"/>
-    
-    <category term="评测" scheme="https://username.github.io/mobile-tech/tags/%E8%AF%84%E6%B5%8B/"/>
-    
-    <category term="对比" scheme="https://username.github.io/mobile-tech/tags/%E5%AF%B9%E6%AF%94/"/>
-    
-    <category term="推荐" scheme="https://username.github.io/mobile-tech/tags/%E6%8E%A8%E8%8D%90/"/>
-    
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
-    
-    <category term="法国" scheme="https://username.github.io/mobile-tech/tags/%E6%B3%95%E5%9B%BD/"/>
-    
-    <category term="出境游" scheme="https://username.github.io/mobile-tech/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
-    
-    <category term="eSIM" scheme="https://username.github.io/mobile-tech/tags/eSIM/"/>
-    
-    <category term="移动通信" scheme="https://username.github.io/mobile-tech/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
-    
-    <category term="流量卡" scheme="https://username.github.io/mobile-tech/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
-    
-  </entry>
-  
-  <entry>
     <title>美国旅游卡2025|手续费对比|最新推荐排行|哪个最便宜安全</title>
-    <link href="https://username.github.io/mobile-tech/international-roaming/travel-guide/sim-card-reviews/tech-guide/%E7%BE%8E%E5%9B%BD%E6%97%85%E6%B8%B8%E5%8D%A12025%E6%89%8B%E7%BB%AD%E8%B4%B9%E5%AF%B9%E6%AF%94%E6%9C%80%E6%96%B0%E6%8E%A8%E8%8D%90%E6%8E%92%E8%A1%8C%E5%93%AA%E4%B8%AA%E6%9C%80%E4%BE%BF%E5%AE%9C%E5%AE%89%E5%85%A8/"/>
-    <id>https://username.github.io/mobile-tech/international-roaming/travel-guide/sim-card-reviews/tech-guide/%E7%BE%8E%E5%9B%BD%E6%97%85%E6%B8%B8%E5%8D%A12025%E6%89%8B%E7%BB%AD%E8%B4%B9%E5%AF%B9%E6%AF%94%E6%9C%80%E6%96%B0%E6%8E%A8%E8%8D%90%E6%8E%92%E8%A1%8C%E5%93%AA%E4%B8%AA%E6%9C%80%E4%BE%BF%E5%AE%9C%E5%AE%89%E5%85%A8/</id>
+    <link href="https://tikegg.github.io/international-roaming/travel-guide/sim-card-reviews/tech-guide/%E7%BE%8E%E5%9B%BD%E6%97%85%E6%B8%B8%E5%8D%A12025%E6%89%8B%E7%BB%AD%E8%B4%B9%E5%AF%B9%E6%AF%94%E6%9C%80%E6%96%B0%E6%8E%A8%E8%8D%90%E6%8E%92%E8%A1%8C%E5%93%AA%E4%B8%AA%E6%9C%80%E4%BE%BF%E5%AE%9C%E5%AE%89%E5%85%A8/"/>
+    <id>https://tikegg.github.io/international-roaming/travel-guide/sim-card-reviews/tech-guide/%E7%BE%8E%E5%9B%BD%E6%97%85%E6%B8%B8%E5%8D%A12025%E6%89%8B%E7%BB%AD%E8%B4%B9%E5%AF%B9%E6%AF%94%E6%9C%80%E6%96%B0%E6%8E%A8%E8%8D%90%E6%8E%92%E8%A1%8C%E5%93%AA%E4%B8%AA%E6%9C%80%E4%BE%BF%E5%AE%9C%E5%AE%89%E5%85%A8/</id>
     <published>2025-09-08T10:28:59.000Z</published>
     <updated>2025-09-08T10:28:58.956Z</updated>
     
@@ -275,39 +28,39 @@
     
     
     
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/categories/international-roaming/"/>
+    <category term="国际漫游" scheme="https://tikegg.github.io/categories/international-roaming/"/>
     
-    <category term="旅游指南" scheme="https://username.github.io/mobile-tech/categories/international-roaming/travel-guide/"/>
+    <category term="旅游指南" scheme="https://tikegg.github.io/categories/international-roaming/travel-guide/"/>
     
-    <category term="流量卡评测" scheme="https://username.github.io/mobile-tech/categories/international-roaming/travel-guide/sim-card-reviews/"/>
+    <category term="流量卡评测" scheme="https://tikegg.github.io/categories/international-roaming/travel-guide/sim-card-reviews/"/>
     
-    <category term="技术指南" scheme="https://username.github.io/mobile-tech/categories/international-roaming/travel-guide/sim-card-reviews/tech-guide/"/>
+    <category term="技术指南" scheme="https://tikegg.github.io/categories/international-roaming/travel-guide/sim-card-reviews/tech-guide/"/>
     
     
-    <category term="旅游" scheme="https://username.github.io/mobile-tech/tags/%E6%97%85%E6%B8%B8/"/>
+    <category term="旅游" scheme="https://tikegg.github.io/tags/%E6%97%85%E6%B8%B8/"/>
     
-    <category term="评测" scheme="https://username.github.io/mobile-tech/tags/%E8%AF%84%E6%B5%8B/"/>
+    <category term="评测" scheme="https://tikegg.github.io/tags/%E8%AF%84%E6%B5%8B/"/>
     
-    <category term="对比" scheme="https://username.github.io/mobile-tech/tags/%E5%AF%B9%E6%AF%94/"/>
+    <category term="对比" scheme="https://tikegg.github.io/tags/%E5%AF%B9%E6%AF%94/"/>
     
-    <category term="教程" scheme="https://username.github.io/mobile-tech/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://tikegg.github.io/tags/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="推荐" scheme="https://username.github.io/mobile-tech/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="美国" scheme="https://tikegg.github.io/tags/%E7%BE%8E%E5%9B%BD/"/>
     
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
+    <category term="推荐" scheme="https://tikegg.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
     
-    <category term="出境游" scheme="https://username.github.io/mobile-tech/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
+    <category term="国际漫游" scheme="https://tikegg.github.io/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
     
-    <category term="使用指南" scheme="https://username.github.io/mobile-tech/tags/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+    <category term="出境游" scheme="https://tikegg.github.io/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
     
-    <category term="美国" scheme="https://username.github.io/mobile-tech/tags/%E7%BE%8E%E5%9B%BD/"/>
+    <category term="使用指南" scheme="https://tikegg.github.io/tags/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
     
   </entry>
   
   <entry>
     <title>如何选择法国流量卡：2025年最佳推荐与性价比对比指南</title>
-    <link href="https://username.github.io/mobile-tech/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%EF%BC%9A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%8E%A8%E8%8D%90%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AF%B9%E6%AF%94%E6%8C%87%E5%8D%97/"/>
-    <id>https://username.github.io/mobile-tech/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%EF%BC%9A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%8E%A8%E8%8D%90%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AF%B9%E6%AF%94%E6%8C%87%E5%8D%97/</id>
+    <link href="https://tikegg.github.io/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%EF%BC%9A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%8E%A8%E8%8D%90%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AF%B9%E6%AF%94%E6%8C%87%E5%8D%97/"/>
+    <id>https://tikegg.github.io/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%EF%BC%9A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%8E%A8%E8%8D%90%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AF%B9%E6%AF%94%E6%8C%87%E5%8D%97/</id>
     <published>2025-09-08T10:28:59.000Z</published>
     <updated>2025-09-08T10:28:58.928Z</updated>
     
@@ -316,43 +69,188 @@
     
     
     
-    <category term="通信服务" scheme="https://username.github.io/mobile-tech/categories/mobile-data/"/>
+    <category term="通信服务" scheme="https://tikegg.github.io/categories/mobile-data/"/>
     
-    <category term="旅游指南" scheme="https://username.github.io/mobile-tech/categories/mobile-data/travel-guide/"/>
+    <category term="旅游指南" scheme="https://tikegg.github.io/categories/mobile-data/travel-guide/"/>
     
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/categories/mobile-data/travel-guide/international-roaming/"/>
+    <category term="国际漫游" scheme="https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/"/>
     
-    <category term="流量卡评测" scheme="https://username.github.io/mobile-tech/categories/mobile-data/travel-guide/international-roaming/sim-card-reviews/"/>
+    <category term="流量卡评测" scheme="https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/sim-card-reviews/"/>
     
     
-    <category term="Orange" scheme="https://username.github.io/mobile-tech/tags/Orange/"/>
+    <category term="旅游" scheme="https://tikegg.github.io/tags/%E6%97%85%E6%B8%B8/"/>
     
-    <category term="旅游" scheme="https://username.github.io/mobile-tech/tags/%E6%97%85%E6%B8%B8/"/>
+    <category term="评测" scheme="https://tikegg.github.io/tags/%E8%AF%84%E6%B5%8B/"/>
     
-    <category term="评测" scheme="https://username.github.io/mobile-tech/tags/%E8%AF%84%E6%B5%8B/"/>
+    <category term="对比" scheme="https://tikegg.github.io/tags/%E5%AF%B9%E6%AF%94/"/>
     
-    <category term="对比" scheme="https://username.github.io/mobile-tech/tags/%E5%AF%B9%E6%AF%94/"/>
+    <category term="推荐" scheme="https://tikegg.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
     
-    <category term="推荐" scheme="https://username.github.io/mobile-tech/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="国际漫游" scheme="https://tikegg.github.io/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
     
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
+    <category term="出境游" scheme="https://tikegg.github.io/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
     
-    <category term="法国" scheme="https://username.github.io/mobile-tech/tags/%E6%B3%95%E5%9B%BD/"/>
+    <category term="eSIM" scheme="https://tikegg.github.io/tags/eSIM/"/>
     
-    <category term="出境游" scheme="https://username.github.io/mobile-tech/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
+    <category term="Orange" scheme="https://tikegg.github.io/tags/Orange/"/>
     
-    <category term="eSIM" scheme="https://username.github.io/mobile-tech/tags/eSIM/"/>
+    <category term="移动通信" scheme="https://tikegg.github.io/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
     
-    <category term="移动通信" scheme="https://username.github.io/mobile-tech/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
+    <category term="法国" scheme="https://tikegg.github.io/tags/%E6%B3%95%E5%9B%BD/"/>
     
-    <category term="流量卡" scheme="https://username.github.io/mobile-tech/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
+    <category term="流量卡" scheme="https://tikegg.github.io/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>法国5G卡终极攻略：哪里买、怎么用、2024最省方案（实测推荐）</title>
+    <link href="https://tikegg.github.io/international-roaming/travel-guide/sim-card-reviews/tech-guide/%E6%B3%95%E5%9B%BD5G%E5%8D%A1%E7%BB%88%E6%9E%81%E6%94%BB%E7%95%A5%EF%BC%9A%E5%93%AA%E9%87%8C%E4%B9%B0%E3%80%81%E6%80%8E%E4%B9%88%E7%94%A8%E3%80%812024%E6%9C%80%E7%9C%81%E6%96%B9%E6%A1%88%EF%BC%88%E5%AE%9E%E6%B5%8B%E6%8E%A8%E8%8D%90%EF%BC%89/"/>
+    <id>https://tikegg.github.io/international-roaming/travel-guide/sim-card-reviews/tech-guide/%E6%B3%95%E5%9B%BD5G%E5%8D%A1%E7%BB%88%E6%9E%81%E6%94%BB%E7%95%A5%EF%BC%9A%E5%93%AA%E9%87%8C%E4%B9%B0%E3%80%81%E6%80%8E%E4%B9%88%E7%94%A8%E3%80%812024%E6%9C%80%E7%9C%81%E6%96%B9%E6%A1%88%EF%BC%88%E5%AE%9E%E6%B5%8B%E6%8E%A8%E8%8D%90%EF%BC%89/</id>
+    <published>2025-09-08T10:28:59.000Z</published>
+    <updated>2025-09-08T10:28:58.942Z</updated>
+    
+    
+    <summary type="html">刚下飞机就断网？别让天价漫游费毁了你的法国之旅！作为去年在巴黎街头摸爬滚打三个月的“老油条”，我实测了市面上所有法国5G卡方案——从戴高乐机场柜台到本地便利店，Orange卡稳坐网速王座，实测下载速度85Mbps（埃菲尔铁塔下刷视频不卡顿），月租15欧无限流量套餐比国际漫游省70%。这篇攻略直接甩干...</summary>
+    
+    
+    
+    <category term="国际漫游" scheme="https://tikegg.github.io/categories/international-roaming/"/>
+    
+    <category term="旅游指南" scheme="https://tikegg.github.io/categories/international-roaming/travel-guide/"/>
+    
+    <category term="流量卡评测" scheme="https://tikegg.github.io/categories/international-roaming/travel-guide/sim-card-reviews/"/>
+    
+    <category term="技术指南" scheme="https://tikegg.github.io/categories/international-roaming/travel-guide/sim-card-reviews/tech-guide/"/>
+    
+    
+    <category term="旅游" scheme="https://tikegg.github.io/tags/%E6%97%85%E6%B8%B8/"/>
+    
+    <category term="评测" scheme="https://tikegg.github.io/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+    <category term="对比" scheme="https://tikegg.github.io/tags/%E5%AF%B9%E6%AF%94/"/>
+    
+    <category term="教程" scheme="https://tikegg.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="推荐" scheme="https://tikegg.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="国际漫游" scheme="https://tikegg.github.io/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
+    
+    <category term="出境游" scheme="https://tikegg.github.io/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
+    
+    <category term="使用指南" scheme="https://tikegg.github.io/tags/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+    
+    <category term="Orange" scheme="https://tikegg.github.io/tags/Orange/"/>
+    
+    <category term="法国" scheme="https://tikegg.github.io/tags/%E6%B3%95%E5%9B%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何选择法国流量卡：2025年最佳性价比品牌对比与设置指南</title>
+    <link href="https://tikegg.github.io/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%EF%BC%9A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%80%A7%E4%BB%B7%E6%AF%94%E5%93%81%E7%89%8C%E5%AF%B9%E6%AF%94%E4%B8%8E%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/"/>
+    <id>https://tikegg.github.io/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%EF%BC%9A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%80%A7%E4%BB%B7%E6%AF%94%E5%93%81%E7%89%8C%E5%AF%B9%E6%AF%94%E4%B8%8E%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97/</id>
+    <published>2025-09-08T10:28:59.000Z</published>
+    <updated>2025-09-08T10:28:58.919Z</updated>
+    
+    
+    <summary type="html">说实话，去年我拖着行李箱刚落地戴高乐机场时，手机一开就收到运营商短信：国际漫游费每分钟3欧元！那一刻我真想把手机扔进塞纳河——直到学会**如何选择法国流量卡**。别再被天价漫游坑了，2025年选对卡能省下至少200欧，还能秒连4G不掉线。下面我直接甩干货：短期旅行闭眼入Orange的10欧10GB卡...</summary>
+    
+    
+    
+    <category term="通信服务" scheme="https://tikegg.github.io/categories/mobile-data/"/>
+    
+    <category term="流量卡评测" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/"/>
+    
+    <category term="国际漫游" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/international-roaming/"/>
+    
+    <category term="旅游指南" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/"/>
+    
+    <category term="技术指南" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/"/>
+    
+    
+    <category term="旅游" scheme="https://tikegg.github.io/tags/%E6%97%85%E6%B8%B8/"/>
+    
+    <category term="评测" scheme="https://tikegg.github.io/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+    <category term="对比" scheme="https://tikegg.github.io/tags/%E5%AF%B9%E6%AF%94/"/>
+    
+    <category term="教程" scheme="https://tikegg.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="推荐" scheme="https://tikegg.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="国际漫游" scheme="https://tikegg.github.io/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
+    
+    <category term="出境游" scheme="https://tikegg.github.io/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
+    
+    <category term="使用指南" scheme="https://tikegg.github.io/tags/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+    
+    <category term="eSIM" scheme="https://tikegg.github.io/tags/eSIM/"/>
+    
+    <category term="Orange" scheme="https://tikegg.github.io/tags/Orange/"/>
+    
+    <category term="移动通信" scheme="https://tikegg.github.io/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
+    
+    <category term="法国" scheme="https://tikegg.github.io/tags/%E6%B3%95%E5%9B%BD/"/>
+    
+    <category term="流量卡" scheme="https://tikegg.github.io/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
+    
+    <category term="德国" scheme="https://tikegg.github.io/tags/%E5%BE%B7%E5%9B%BD/"/>
+    
+    <category term="意大利" scheme="https://tikegg.github.io/tags/%E6%84%8F%E5%A4%A7%E5%88%A9/"/>
+    
+    <category term="西班牙" scheme="https://tikegg.github.io/tags/%E8%A5%BF%E7%8F%AD%E7%89%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>法国手机卡终极选择：2025高性价比推荐与实操指南（附机场购买技巧）</title>
+    <link href="https://tikegg.github.io/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E6%B3%95%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%8D%A1%E7%BB%88%E6%9E%81%E9%80%89%E6%8B%A9%EF%BC%9A2025%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%8E%A8%E8%8D%90%E4%B8%8E%E5%AE%9E%E6%93%8D%E6%8C%87%E5%8D%97%EF%BC%88%E9%99%84%E6%9C%BA%E5%9C%BA%E8%B4%AD%E4%B9%B0%E6%8A%80%E5%B7%A7%EF%BC%89/"/>
+    <id>https://tikegg.github.io/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E6%B3%95%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%8D%A1%E7%BB%88%E6%9E%81%E9%80%89%E6%8B%A9%EF%BC%9A2025%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%8E%A8%E8%8D%90%E4%B8%8E%E5%AE%9E%E6%93%8D%E6%8C%87%E5%8D%97%EF%BC%88%E9%99%84%E6%9C%BA%E5%9C%BA%E8%B4%AD%E4%B9%B0%E6%8A%80%E5%B7%A7%EF%BC%89/</id>
+    <published>2025-09-08T10:28:59.000Z</published>
+    <updated>2025-09-08T10:28:58.950Z</updated>
+    
+    
+    <summary type="html">刚拖着行李箱走出巴黎戴高乐机场，手机一震收到运营商短信：&quot;国际漫游费12欧元/分钟&quot;——这感觉我太熟悉了！去年带爸妈去蔚蓝海岸，差点被漫游账单吓晕。别慌，这篇指南专治&quot;法国手机卡&quot;选择困难症：30秒内教你激活最便宜短期卡，省下50%冤枉钱（Free Mobile的8天卡只要5欧，实测机场柜台10分钟...</summary>
+    
+    
+    
+    <category term="通信服务" scheme="https://tikegg.github.io/categories/mobile-data/"/>
+    
+    <category term="旅游指南" scheme="https://tikegg.github.io/categories/mobile-data/travel-guide/"/>
+    
+    <category term="国际漫游" scheme="https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/"/>
+    
+    <category term="流量卡评测" scheme="https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/sim-card-reviews/"/>
+    
+    
+    <category term="旅游" scheme="https://tikegg.github.io/tags/%E6%97%85%E6%B8%B8/"/>
+    
+    <category term="评测" scheme="https://tikegg.github.io/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+    <category term="对比" scheme="https://tikegg.github.io/tags/%E5%AF%B9%E6%AF%94/"/>
+    
+    <category term="推荐" scheme="https://tikegg.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="国际漫游" scheme="https://tikegg.github.io/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
+    
+    <category term="出境游" scheme="https://tikegg.github.io/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
+    
+    <category term="eSIM" scheme="https://tikegg.github.io/tags/eSIM/"/>
+    
+    <category term="Orange" scheme="https://tikegg.github.io/tags/Orange/"/>
+    
+    <category term="移动通信" scheme="https://tikegg.github.io/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
+    
+    <category term="法国" scheme="https://tikegg.github.io/tags/%E6%B3%95%E5%9B%BD/"/>
+    
+    <category term="流量卡" scheme="https://tikegg.github.io/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
     
   </entry>
   
   <entry>
     <title>权威评测：意大利无限流量卡运营商深度分析（TIM/Vodafone/Wind Tre）2025</title>
-    <link href="https://username.github.io/mobile-tech/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E6%9D%83%E5%A8%81%E8%AF%84%E6%B5%8B%EF%BC%9A%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%E5%8D%A1%E8%BF%90%E8%90%A5%E5%95%86%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%EF%BC%88TIMVodafoneWind_Tre%EF%BC%892025/"/>
-    <id>https://username.github.io/mobile-tech/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E6%9D%83%E5%A8%81%E8%AF%84%E6%B5%8B%EF%BC%9A%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%E5%8D%A1%E8%BF%90%E8%90%A5%E5%95%86%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%EF%BC%88TIMVodafoneWind_Tre%EF%BC%892025/</id>
+    <link href="https://tikegg.github.io/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E6%9D%83%E5%A8%81%E8%AF%84%E6%B5%8B%EF%BC%9A%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%E5%8D%A1%E8%BF%90%E8%90%A5%E5%95%86%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%EF%BC%88TIMVodafoneWind_Tre%EF%BC%892025/"/>
+    <id>https://tikegg.github.io/mobile-data/travel-guide/international-roaming/sim-card-reviews/%E6%9D%83%E5%A8%81%E8%AF%84%E6%B5%8B%EF%BC%9A%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%E5%8D%A1%E8%BF%90%E8%90%A5%E5%95%86%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%EF%BC%88TIMVodafoneWind_Tre%EF%BC%892025/</id>
     <published>2025-09-08T10:28:59.000Z</published>
     <updated>2025-09-08T10:28:58.935Z</updated>
     
@@ -361,38 +259,140 @@
     
     
     
-    <category term="通信服务" scheme="https://username.github.io/mobile-tech/categories/mobile-data/"/>
+    <category term="通信服务" scheme="https://tikegg.github.io/categories/mobile-data/"/>
     
-    <category term="旅游指南" scheme="https://username.github.io/mobile-tech/categories/mobile-data/travel-guide/"/>
+    <category term="旅游指南" scheme="https://tikegg.github.io/categories/mobile-data/travel-guide/"/>
     
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/categories/mobile-data/travel-guide/international-roaming/"/>
+    <category term="国际漫游" scheme="https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/"/>
     
-    <category term="流量卡评测" scheme="https://username.github.io/mobile-tech/categories/mobile-data/travel-guide/international-roaming/sim-card-reviews/"/>
+    <category term="流量卡评测" scheme="https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/sim-card-reviews/"/>
     
     
-    <category term="Orange" scheme="https://username.github.io/mobile-tech/tags/Orange/"/>
+    <category term="旅游" scheme="https://tikegg.github.io/tags/%E6%97%85%E6%B8%B8/"/>
     
-    <category term="旅游" scheme="https://username.github.io/mobile-tech/tags/%E6%97%85%E6%B8%B8/"/>
+    <category term="评测" scheme="https://tikegg.github.io/tags/%E8%AF%84%E6%B5%8B/"/>
     
-    <category term="评测" scheme="https://username.github.io/mobile-tech/tags/%E8%AF%84%E6%B5%8B/"/>
+    <category term="对比" scheme="https://tikegg.github.io/tags/%E5%AF%B9%E6%AF%94/"/>
     
-    <category term="对比" scheme="https://username.github.io/mobile-tech/tags/%E5%AF%B9%E6%AF%94/"/>
+    <category term="推荐" scheme="https://tikegg.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
     
-    <category term="推荐" scheme="https://username.github.io/mobile-tech/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="国际漫游" scheme="https://tikegg.github.io/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
     
-    <category term="国际漫游" scheme="https://username.github.io/mobile-tech/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
+    <category term="出境游" scheme="https://tikegg.github.io/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
     
-    <category term="出境游" scheme="https://username.github.io/mobile-tech/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
+    <category term="eSIM" scheme="https://tikegg.github.io/tags/eSIM/"/>
     
-    <category term="eSIM" scheme="https://username.github.io/mobile-tech/tags/eSIM/"/>
+    <category term="Orange" scheme="https://tikegg.github.io/tags/Orange/"/>
     
-    <category term="移动通信" scheme="https://username.github.io/mobile-tech/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
+    <category term="移动通信" scheme="https://tikegg.github.io/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
     
-    <category term="流量卡" scheme="https://username.github.io/mobile-tech/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
+    <category term="流量卡" scheme="https://tikegg.github.io/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
     
-    <category term="意大利" scheme="https://username.github.io/mobile-tech/tags/%E6%84%8F%E5%A4%A7%E5%88%A9/"/>
+    <category term="意大利" scheme="https://tikegg.github.io/tags/%E6%84%8F%E5%A4%A7%E5%88%A9/"/>
     
-    <category term="Vodafone" scheme="https://username.github.io/mobile-tech/tags/Vodafone/"/>
+    <category term="Vodafone" scheme="https://tikegg.github.io/tags/Vodafone/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>西班牙eSIM卡购买指南 | 激活步骤、设置教程及2025年最佳推荐</title>
+    <link href="https://tikegg.github.io/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/%E8%A5%BF%E7%8F%AD%E7%89%99eSIM%E5%8D%A1%E8%B4%AD%E4%B9%B0%E6%8C%87%E5%8D%97__%E6%BF%80%E6%B4%BB%E6%AD%A5%E9%AA%A4%E3%80%81%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E5%8F%8A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%8E%A8%E8%8D%90/"/>
+    <id>https://tikegg.github.io/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/%E8%A5%BF%E7%8F%AD%E7%89%99eSIM%E5%8D%A1%E8%B4%AD%E4%B9%B0%E6%8C%87%E5%8D%97__%E6%BF%80%E6%B4%BB%E6%AD%A5%E9%AA%A4%E3%80%81%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E5%8F%8A2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%8E%A8%E8%8D%90/</id>
+    <published>2025-09-08T10:28:59.000Z</published>
+    <updated>2025-09-08T10:28:58.964Z</updated>
+    
+    
+    <summary type="html">刚落地西班牙机场，手机一摸黑？别焦虑！这篇指南专治“落地无网”恐慌——直接告诉你**西班牙eSIM卡**怎么买、10分钟快速激活（连我爸妈都能搞定），以及2025年最靠谱的3个低价套餐（实测iPhone 14和安卓都兼容）。去年在塞维利亚迷路时，要不是提前设好eSIM，我可能真得靠手势比划问路了。漫...</summary>
+    
+    
+    
+    <category term="通信服务" scheme="https://tikegg.github.io/categories/mobile-data/"/>
+    
+    <category term="流量卡评测" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/"/>
+    
+    <category term="国际漫游" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/international-roaming/"/>
+    
+    <category term="旅游指南" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/"/>
+    
+    <category term="技术指南" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/"/>
+    
+    
+    <category term="旅游" scheme="https://tikegg.github.io/tags/%E6%97%85%E6%B8%B8/"/>
+    
+    <category term="评测" scheme="https://tikegg.github.io/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+    <category term="对比" scheme="https://tikegg.github.io/tags/%E5%AF%B9%E6%AF%94/"/>
+    
+    <category term="教程" scheme="https://tikegg.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="推荐" scheme="https://tikegg.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="国际漫游" scheme="https://tikegg.github.io/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
+    
+    <category term="出境游" scheme="https://tikegg.github.io/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
+    
+    <category term="使用指南" scheme="https://tikegg.github.io/tags/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+    
+    <category term="eSIM" scheme="https://tikegg.github.io/tags/eSIM/"/>
+    
+    <category term="移动通信" scheme="https://tikegg.github.io/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
+    
+    <category term="流量卡" scheme="https://tikegg.github.io/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
+    
+    <category term="西班牙" scheme="https://tikegg.github.io/tags/%E8%A5%BF%E7%8F%AD%E7%89%99/"/>
+    
+    <category term="Vodafone" scheme="https://tikegg.github.io/tags/Vodafone/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2025法国流量卡终极指南：安全购买、激活技巧与性价比排行（实测更新）</title>
+    <link href="https://tikegg.github.io/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/2025%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%EF%BC%9A%E5%AE%89%E5%85%A8%E8%B4%AD%E4%B9%B0%E3%80%81%E6%BF%80%E6%B4%BB%E6%8A%80%E5%B7%A7%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E6%8E%92%E8%A1%8C%EF%BC%88%E5%AE%9E%E6%B5%8B%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
+    <id>https://tikegg.github.io/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/2025%E6%B3%95%E5%9B%BD%E6%B5%81%E9%87%8F%E5%8D%A1%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%EF%BC%9A%E5%AE%89%E5%85%A8%E8%B4%AD%E4%B9%B0%E3%80%81%E6%BF%80%E6%B4%BB%E6%8A%80%E5%B7%A7%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E6%8E%92%E8%A1%8C%EF%BC%88%E5%AE%9E%E6%B5%8B%E6%9B%B4%E6%96%B0%EF%BC%89/</id>
+    <published>2025-09-08T10:28:59.000Z</published>
+    <updated>2025-09-08T10:28:58.913Z</updated>
+    
+    
+    <summary type="html">嗨，朋友！刚从法国自驾游回来，我太懂你搜“法国流量卡”时的焦虑了——国内运营商漫游费50元/GB，信号在普罗旺斯乡下直接失踪，激活还要填一堆法语表格…别慌！作为踩过无数坑的旅行老油条，我实测了12款2025年最新流量卡，发现**法国流量卡**根本不用花冤枉钱：安全激活30秒搞定、学生党月费低至20欧...</summary>
+    
+    
+    
+    <category term="通信服务" scheme="https://tikegg.github.io/categories/mobile-data/"/>
+    
+    <category term="流量卡评测" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/"/>
+    
+    <category term="国际漫游" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/international-roaming/"/>
+    
+    <category term="旅游指南" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/"/>
+    
+    <category term="技术指南" scheme="https://tikegg.github.io/categories/mobile-data/sim-card-reviews/international-roaming/travel-guide/tech-guide/"/>
+    
+    
+    <category term="旅游" scheme="https://tikegg.github.io/tags/%E6%97%85%E6%B8%B8/"/>
+    
+    <category term="评测" scheme="https://tikegg.github.io/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+    <category term="对比" scheme="https://tikegg.github.io/tags/%E5%AF%B9%E6%AF%94/"/>
+    
+    <category term="教程" scheme="https://tikegg.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="推荐" scheme="https://tikegg.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="国际漫游" scheme="https://tikegg.github.io/tags/%E5%9B%BD%E9%99%85%E6%BC%AB%E6%B8%B8/"/>
+    
+    <category term="出境游" scheme="https://tikegg.github.io/tags/%E5%87%BA%E5%A2%83%E6%B8%B8/"/>
+    
+    <category term="使用指南" scheme="https://tikegg.github.io/tags/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+    
+    <category term="eSIM" scheme="https://tikegg.github.io/tags/eSIM/"/>
+    
+    <category term="Orange" scheme="https://tikegg.github.io/tags/Orange/"/>
+    
+    <category term="移动通信" scheme="https://tikegg.github.io/tags/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/"/>
+    
+    <category term="法国" scheme="https://tikegg.github.io/tags/%E6%B3%95%E5%9B%BD/"/>
+    
+    <category term="流量卡" scheme="https://tikegg.github.io/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
     
   </entry>
   
