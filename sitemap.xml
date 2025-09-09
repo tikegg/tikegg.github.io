@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tikegg.github.io/mobile-data/sim-card-reviews/travel-guide/international-roaming/2025%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%97%85%E6%B8%B8%E5%8D%A1%E8%B4%AD%E4%B9%B0%E6%8C%87%E5%8D%97%EF%BC%9A%E6%9C%80%E6%96%B0%E4%BC%98%E6%83%A0%E3%80%81%E5%AF%B9%E6%AF%94%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
+    
+    <lastmod>2025-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tikegg.github.io/mobile-data/travel-guide/international-roaming/sim-card-reviews/tech-guide/%E7%9C%81%E6%97%B6%E9%81%BF%E7%BD%9A%EF%BC%9A2025%E5%B9%B4%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E8%BD%A6%E8%BE%86%E6%B3%A8%E5%86%8C%E5%8D%A15%E5%A4%A7%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E4%B8%8E%E7%9C%81%E9%92%B1%E7%AD%96%E7%95%A5/</loc>
     
     <lastmod>2025-09-09</lastmod>
@@ -2000,13 +2009,6 @@
 
   
   <url>
-    <loc>https://tikegg.github.io/tags/Orange/</loc>
-    <lastmod>2025-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://tikegg.github.io/tags/%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -2042,14 +2044,14 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://tikegg.github.io/tags/%E8%AF%84%E6%B5%8B/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/tags/Vodafone/</loc>
+    <loc>https://tikegg.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2084,14 +2086,21 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/tags/%E8%AF%84%E6%B5%8B/</loc>
+    <loc>https://tikegg.github.io/tags/%E6%84%8F%E5%A4%A7%E5%88%A9/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/tags/%E6%84%8F%E5%A4%A7%E5%88%A9/</loc>
+    <loc>https://tikegg.github.io/tags/Orange/</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tikegg.github.io/tags/Vodafone/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2119,13 +2128,6 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/tags/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/</loc>
-    <lastmod>2025-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://tikegg.github.io/tags/%E6%97%A5%E6%9C%AC/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -2133,7 +2135,21 @@
   </url>
   
   <url>
+    <loc>https://tikegg.github.io/tags/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://tikegg.github.io/tags/T-Mobile/</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tikegg.github.io/tags/Verizon/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2148,13 +2164,6 @@
   
   <url>
     <loc>https://tikegg.github.io/tags/AT-T/</loc>
-    <lastmod>2025-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://tikegg.github.io/tags/Verizon/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2205,6 +2214,13 @@
   </url>
   
   <url>
+    <loc>https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://tikegg.github.io/categories/mobile-data/sim-card-reviews/tech-guide/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -2219,13 +2235,6 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/</loc>
-    <lastmod>2025-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://tikegg.github.io/categories/mobile-data/sim-card-reviews/international-roaming/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -2234,6 +2243,13 @@
   
   <url>
     <loc>https://tikegg.github.io/categories/mobile-data/sim-card-reviews/travel-guide/tech-guide/</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/sim-card-reviews/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2268,13 +2284,6 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/sim-card-reviews/</loc>
-    <lastmod>2025-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://tikegg.github.io/categories/mobile-data/sim-card-reviews/tech-guide/international-roaming/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -2289,7 +2298,7 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/categories/tech-guide/</loc>
+    <loc>https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/sim-card-reviews/tech-guide/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2297,6 +2306,13 @@
   
   <url>
     <loc>https://tikegg.github.io/categories/international-roaming/tech-guide/</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tikegg.github.io/categories/tech-guide/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2331,13 +2347,6 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/categories/mobile-data/travel-guide/international-roaming/sim-card-reviews/tech-guide/</loc>
-    <lastmod>2025-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://tikegg.github.io/categories/international-roaming/travel-guide/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -2366,14 +2375,14 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/categories/tech-guide/sim-card-reviews/</loc>
+    <loc>https://tikegg.github.io/categories/international-roaming/tech-guide/sim-card-reviews/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/categories/international-roaming/tech-guide/sim-card-reviews/</loc>
+    <loc>https://tikegg.github.io/categories/tech-guide/sim-card-reviews/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2429,7 +2438,7 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/categories/travel-guide/mobile-data/</loc>
+    <loc>https://tikegg.github.io/categories/international-roaming/tech-guide/sim-card-reviews/mobile-data/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2437,13 +2446,6 @@
   
   <url>
     <loc>https://tikegg.github.io/categories/tech-guide/sim-card-reviews/travel-guide/</loc>
-    <lastmod>2025-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://tikegg.github.io/categories/international-roaming/tech-guide/sim-card-reviews/mobile-data/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2485,7 +2487,7 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/categories/travel-guide/mobile-data/tech-guide/</loc>
+    <loc>https://tikegg.github.io/categories/international-roaming/tech-guide/sim-card-reviews/mobile-data/travel-guide/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2493,13 +2495,6 @@
   
   <url>
     <loc>https://tikegg.github.io/categories/tech-guide/sim-card-reviews/travel-guide/mobile-data/</loc>
-    <lastmod>2025-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://tikegg.github.io/categories/international-roaming/tech-guide/sim-card-reviews/mobile-data/travel-guide/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2520,14 +2515,28 @@
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/categories/travel-guide/mobile-data/tech-guide/sim-card-reviews/</loc>
+    <loc>https://tikegg.github.io/categories/tech-guide/sim-card-reviews/travel-guide/mobile-data/international-roaming/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tikegg.github.io/categories/tech-guide/sim-card-reviews/travel-guide/mobile-data/international-roaming/</loc>
+    <loc>https://tikegg.github.io/categories/travel-guide/mobile-data/</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tikegg.github.io/categories/travel-guide/mobile-data/tech-guide/</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tikegg.github.io/categories/travel-guide/mobile-data/tech-guide/sim-card-reviews/</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
