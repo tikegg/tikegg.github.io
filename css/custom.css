@@ -1,0 +1,123 @@
+.post-body p {
+  margin-bottom: 1.2em;
+  line-height: 1.8;
+  text-align: justify;
+  word-spacing: 0.05em;
+}
+.post-body strong,
+.post-body b {
+  font-weight: 600;
+  color: #2c3e50;
+  padding: 0 2px;
+}
+.post-body a {
+  color: #3498db;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s ease;
+}
+.post-body a:hover {
+  color: #2980b9;
+  border-bottom-color: #2980b9;
+}
+.post-body h1,
+.post-body h2,
+.post-body h3,
+.post-body h4,
+.post-body h5,
+.post-body h6 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+  line-height: 1.4;
+  font-weight: 600;
+}
+.post-body h2 {
+  color: #2c3e50;
+  border-bottom: 2px solid #ecf0f1;
+  padding-bottom: 0.5em;
+}
+.post-body h3 {
+  color: #34495e;
+}
+.post-body ul,
+.post-body ol {
+  margin: 1.2em 0;
+  padding-left: 2em;
+}
+.post-body ul li,
+.post-body ol li {
+  margin-bottom: 0.6em;
+  line-height: 1.7;
+}
+.post-tags {
+  margin-top: 2em;
+  padding-top: 1.5em;
+  border-top: 1px solid #ecf0f1;
+}
+.post-tags a {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  padding: 5px 12px;
+  margin: 3px 5px 3px 0;
+  border-radius: 15px;
+  font-size: 0.85em;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+.post-tags a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102,126,234,0.4);
+}
+.post-body blockquote {
+  background: #f8f9fa;
+  border-left: 4px solid #3498db;
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  color: #555;
+}
+.post-body code {
+  background: #f1f2f6;
+  color: #e74c3c;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+}
+@media (max-width: 767px) {
+  .post-body p {
+    line-height: 1.7;
+    margin-bottom: 1em;
+  }
+  .post-body h1,
+  .post-body h2,
+  .post-body h3,
+  .post-body h4,
+  .post-body h5,
+  .post-body h6 {
+    margin-top: 1.5em;
+  }
+  .post-tags a {
+    font-size: 0.8em;
+    padding: 4px 10px;
+  }
+}
+.post .post-header {
+  margin-bottom: 2em;
+}
+.post .post-meta {
+  color: #7f8c8d;
+  font-size: 0.9em;
+  margin-bottom: 1.5em;
+}
+.post-block {
+  background: #fff;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+.post-block:hover {
+  box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+  transform: translateY(-2px);
+}
